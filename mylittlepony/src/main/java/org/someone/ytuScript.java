@@ -74,7 +74,6 @@ public class ytuScript {
             case "Analog Elektronik Kont. Müh.":
                 driver.get("https://online.yildiz.edu.tr/?transaction=LMS.EDU.LessonProgram.ViewOnlineLessonProgramForStudent/19304");
                 break;
-            // cerenin
             case "Lineer Programlama Teorisi Mat. Müh.":
                 driver.get("https://online.yildiz.edu.tr/?transaction=LMS.EDU.LessonProgram.ViewOnlineLessonProgramForStudent/21324");
                 break;
