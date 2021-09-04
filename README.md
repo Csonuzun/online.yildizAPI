@@ -1,7 +1,7 @@
 # online.yildizAPI
 online.yildiz.edu.tr adresi üzerinden yapılan çevrimiçi derslere otomatik katılan program.
 
-KULLANIM:
+<b>KULLANIM:</b>
 
 Belgelerim klasörünüzde program.txt ve data.txt isimli iki text dosyası oluşturun.
 data.txt dosyasının içine herhangi bir yazı girip kaydedin. (gelecek güncelleme ile bu gereksinim ortadan kalkacak)
